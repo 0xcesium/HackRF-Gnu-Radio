@@ -1,8 +1,8 @@
 #!/usr/bin/env perl
 #
-# Educational Purpose :
-# Sthack 2016
-# Annual Project 4ASI1 Grp nb*3 ESGI
+# Educational Purpose /!\
+# Sthack 2016 - ReUsed for:
+#	Annual Project 4ASI1 Grp nb*3 ESGI
 #
 use strict;
 use warnings qw(all);
