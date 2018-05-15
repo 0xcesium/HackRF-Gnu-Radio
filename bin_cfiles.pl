@@ -2,7 +2,7 @@
 #
 # Educational Purpose /!\
 # Sthack 2016 - ReUsed for:
-#	Annual Project 4ASI1 Grp nb*3 ESGI
+#	Annual Project 4ASI1
 #
 use strict;
 use warnings qw(all);
